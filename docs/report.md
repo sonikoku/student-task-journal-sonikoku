@@ -2,7 +2,7 @@
 
 ФИО: Соня С.
 Группа: РПО 2
-Ссылка на GitHub:
+Ссылка на GitHub: https://github.com/sonikoku/student-task-journal-sonikoku
 
 ## Выполненные коммиты
 1. init: add project description
